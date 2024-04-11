@@ -1,6 +1,6 @@
 # a-simple-bridge-network-example
 
-The matlab files provided here provides an example on how to perform system reliability analysis to simple bridge network defined in Problem Description.pdf
+The matlab files here provides an example on how to perform system reliability analysis to a simple bridge network defined in Problem Description.pdf.
 
 The Probability of failure of the bridge network is calculated using a) Monte Carlo simulation b) Matrix-based system reliability analysis (MSR) and 3) Sequential compounding method (SCM).
 
